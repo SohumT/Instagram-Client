@@ -16,6 +16,7 @@
 		D1523A6727BCC95D005640BE /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1523A6627BCC95D005640BE /* LoginViewController.swift */; };
 		D1523A6927BCC978005640BE /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1523A6827BCC978005640BE /* FeedViewController.swift */; };
 		D1523A6B27BCD69D005640BE /* cameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1523A6A27BCD69D005640BE /* cameraViewController.swift */; };
+		D1B810A527BD472400DDE8C5 /* postTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1B810A427BD472400DDE8C5 /* postTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		D1523A6627BCC95D005640BE /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		D1523A6827BCC978005640BE /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 		D1523A6A27BCD69D005640BE /* cameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cameraViewController.swift; sourceTree = "<group>"; };
+		D1B810A427BD472400DDE8C5 /* postTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = postTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 				D1523A6627BCC95D005640BE /* LoginViewController.swift */,
 				D1523A6827BCC978005640BE /* FeedViewController.swift */,
 				D1523A6A27BCD69D005640BE /* cameraViewController.swift */,
+				D1B810A427BD472400DDE8C5 /* postTableViewCell.swift */,
 			);
 			path = Parstagram;
 			sourceTree = "<group>";
@@ -215,6 +218,7 @@
 				D1523A6727BCC95D005640BE /* LoginViewController.swift in Sources */,
 				D14558BC27BCBA1200C8C29D /* AppDelegate.swift in Sources */,
 				D1523A6B27BCD69D005640BE /* cameraViewController.swift in Sources */,
+				D1B810A527BD472400DDE8C5 /* postTableViewCell.swift in Sources */,
 				D1523A6927BCC978005640BE /* FeedViewController.swift in Sources */,
 				D14558BE27BCBA1200C8C29D /* SceneDelegate.swift in Sources */,
 			);
@@ -366,6 +370,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LTB462Y8C4;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Parstagram/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -394,6 +399,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LTB462Y8C4;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Parstagram/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
