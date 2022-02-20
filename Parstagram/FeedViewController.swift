@@ -50,8 +50,6 @@ class FeedViewController: UIViewController, UITableViewDelegate, UITableViewData
             if posts != nil {
                 self.posts = posts!
                 self.tableView.reloadData()
-            } else {
-                print("Error: \(error?.localizedDescription)")
             }
         }
     }

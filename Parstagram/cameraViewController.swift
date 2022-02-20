@@ -46,7 +46,7 @@ class cameraViewController: UIViewController, UIImagePickerControllerDelegate, U
     
     
     @IBAction func onCamera(_ sender: Any) {
-         let picker = UIImagePickerController()
+        let picker = UIImagePickerController()
         picker.delegate = self
         picker.allowsEditing = true
         
